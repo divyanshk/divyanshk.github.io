@@ -1,5 +1,4 @@
-# Solo 
+# divyanshk.github.io 
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+Minimal portfolio website based on [Solo](http://chibicode.github.io/solo) theme.
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
