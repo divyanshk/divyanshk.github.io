@@ -10,7 +10,7 @@ My name is Divyansh Khanna and I am a graduate student at Courant Institute of M
 
 <br>
 
-| [![Github](GitHub-Mark-64px.png){:width="25%"}](https://www.github.com/divyanshk)| [![Twitter](Twitter_Social_Icon_Circle_Color.png){:width="28%"}](https://twitter.com/divyanshkhanna1) | [![Github](In-2C-66px-R.png){:width="25%"}](https://www.linkedin.com/in/divyanshkhanna) | [![Facebook](FB-f-Logo__blue_58.png){:width="25%"}](https://www.facebook.com/divyansh.khanna1) | [![Wordpress](wordpress-logo-notext-rgb.png){:width="25%"}](https://divyanshkhanna.wordpress.com)
+| [![Github](GitHub-Mark-64px.png){:width="25%"}](https://www.github.com/divyanshk){:target="_blank"}| [![Twitter](Twitter_Social_Icon_Circle_Color.png){:width="28%"}](https://twitter.com/divyanshkhanna1){:target="_blank"} | [![Github](In-2C-66px-R.png){:width="25%"}](https://www.linkedin.com/in/divyanshkhanna){:target="_blank"} | [![Facebook](FB-f-Logo__blue_58.png){:width="25%"}](https://www.facebook.com/divyansh.khanna1){:target="_blank"} | [![Wordpress](wordpress-logo-notext-rgb.png){:width="25%"}](https://divyanshkhanna.wordpress.com){:target="_blank"}
 
 <br> 
 
