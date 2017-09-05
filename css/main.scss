@@ -1,0 +1,18 @@
+---
+# Main scss file
+---
+@charset "utf-8";
+
+@import
+  'normalize',
+  'solo',
+  'syntax';
+
+ table { 
+ 	border: none;
+ 	border-collapse:collapse;
+ }
+
+ td, th {
+   border:none;
+}

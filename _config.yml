@@ -1,0 +1,10 @@
+# Site settings
+title: Divyansh Khanna
+# tag_text: portfolio
+description: This is my portfolio.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
