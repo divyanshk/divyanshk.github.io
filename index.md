@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-My name is Divyansh Khanna and I am a graduate student in Courant Institute of Mathematical Sciences at New York University.
+My name is Divyansh Khanna and I am a graduate student at Courant Institute of Mathematical Sciences in New York University.
 
 <br>
 
