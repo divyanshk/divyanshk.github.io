@@ -17,6 +17,8 @@ My name is Divyansh Khanna and I am a graduate student at Courant Institute of M
 
 Contact: dk3399[at]nyu.edu
 
+[Mini blogs](https://divyanshk.github.io/Mini-Blogs/)
+
 
 <!-- <a href="https://www.github.com/divyanshk"><img src='GitHub-Mark-64px.png' width="30"></a>
 <a href="https://twitter.com/divyanshkhanna1"><img src='Twitter_Social_Icon_Circle_Color.png' width="30"></a>
