@@ -17,8 +17,9 @@ My name is Divyansh Khanna and I am a graduate student at Courant Institute of M
 [Resume](Divyansh Khanna Resume.pdf) . dk3399[at]nyu.edu
 {: style="text-align: center;"}
 
-[Mini blogs](https://divyanshk.github.io/Mini-Blogs/) 
-[Haskell Blog](https://divyanshk.github.io/Haskell/)
+[Mini-Blogs](https://divyanshk.github.io/Mini-Blogs/) 
+[Haskell-Blogs](https://divyanshk.github.io/Haskell/)
+[Papers-Blogs](https://divyanshk.github.io/Papers-Blogs/)
 {: style="text-align: center;"}
 
 
