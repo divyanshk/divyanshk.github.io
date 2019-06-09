@@ -14,7 +14,7 @@ My name is Divyansh Khanna and I am a graduate student at Courant Institute of M
 
 <br> 
 
-[Resume](Divyansh Khanna Resume.pdf) . dk3399[at]nyu.edu
+[Resume](Divyansh Khanna Resume.pdf) . divyansh[at]nyu.edu
 {: style="text-align: center;"}
 
 [Mini-Blogs](https://divyanshk.github.io/Mini-Blogs/) 
