@@ -18,7 +18,7 @@ My name is Divyansh Khanna and I am a graduate student at Courant Institute of M
 {: style="text-align: center;"}
 
 [Mini-Blogs](https://divyanshk.github.io/Mini-Blogs/) 
-[Haskell-Blogs](https://divyanshk.github.io/Haskell/)
+[Haskell-Blogs](https://divyanshk.github.io/Haskell-Blog/)
 [Papers-Blogs](https://divyanshk.github.io/Papers-Blogs/)
 {: style="text-align: center;"}
 
