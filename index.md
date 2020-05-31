@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-My name is Divyansh Khanna and I am a graduate student at Courant Institute of Mathematical Sciences in New York University.
+My name is Divyansh Khanna and I am a software engineer at Facebook. I graduated from Courant Institute of Mathematical Sciences at New York University with a Masters in Computer Science.
 
 <br>
 
