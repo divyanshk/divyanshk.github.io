@@ -10,16 +10,15 @@ My name is Divyansh Khanna and I am a software engineer at Facebook. I graduated
 
 <br>
 
-| [![Github](GitHub-Mark-64px.png){:width="25%"}](https://www.github.com/divyanshk){:target="_blank"}| [![Twitter](Twitter_Social_Icon_Circle_Color.png){:width="28%"}](https://twitter.com/divyanshkhanna1){:target="_blank"} | [![Github](In-2C-66px-R.png){:width="25%"}](https://www.linkedin.com/in/divyanshkhanna){:target="_blank"} | [![Facebook](FB-f-Logo__blue_58.png){:width="25%"}](https://www.facebook.com/divyansh.khanna1){:target="_blank"} | [![Wordpress](wordpress-logo-notext-rgb.png){:width="25%"}](https://divyanshkhanna.wordpress.com){:target="_blank"}
+| [![Github](GitHub-Mark-64px.png){:width="25%"}](https://www.github.com/divyanshk){:target="_blank"}| [![Github](In-2C-66px-R.png){:width="25%"}](https://www.linkedin.com/in/divyanshkhanna){:target="_blank"} | [![Wordpress](wordpress-logo-notext-rgb.png){:width="25%"}](https://divyanshkhanna.wordpress.com){:target="_blank"}
 
 <br> 
 
-[Resume](Divyansh_Khanna_Resume.pdf) . divyansh[at]nyu.edu
+[Resume](Divyansh_Khanna_Resume.pdf) divyansh[at]nyu.edu
 {: style="text-align: center;"}
 
-[Mini-Blogs](https://divyanshk.github.io/Mini-Blogs/) 
-[Haskell-Blogs](https://divyanshk.github.io/Haskell-Blog/)
 [Papers-Blogs](https://divyanshk.github.io/Papers-Blogs/)
+[Mini-Blogs](https://divyanshk.github.io/Mini-Blogs/)
 {: style="text-align: center;"}
 
 
