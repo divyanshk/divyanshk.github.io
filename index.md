@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-My name is Divyansh Khanna and I am a software engineer at Facebook. I graduated from Courant Institute of Mathematical Sciences at New York University with a Masters in Computer Science.
+My name is Divyansh. I am a software engineer at Meta - working for PyTorch. I enjoy large scale AI Infra and RecSys systems. I graduated from New York University and BITS Pilani.
 
 <br>
 
